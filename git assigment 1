@@ -1,8 +1,0 @@
-git clone url
-git fetch
-git branch
-git branch name(create)
-git switch 
-git add .
-git commit -m "jagadish1"
-git push
